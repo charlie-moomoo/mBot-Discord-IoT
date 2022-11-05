@@ -1,0 +1,20 @@
+{
+  "name": "mbot-discord-iot",
+  "description": "讓你的mBot在Discord上說話",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charlie-moomoo/mBot-Discord-IoT.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlie-moomoo/mBot-Discord-IoT/issues"
+  },
+  "dependencies": {
+    "discord.js": "=12.5.3",
+    "koa": "latest"
+  }
+}
